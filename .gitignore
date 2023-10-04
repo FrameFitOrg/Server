@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Cache files
+__pycache__/
+.cache/
+
+# Compiled files
+*.pyc
+
+# Local database files
+db.sqlite3
+
+# Python package build
+*.egg-info/
+dist/
+build/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Nginx and Docker config files
+nginx.conf
+docker-compose.yml
+
+# Other temporary or system files
+*~
+.DS_Store
+Thumbs.db
